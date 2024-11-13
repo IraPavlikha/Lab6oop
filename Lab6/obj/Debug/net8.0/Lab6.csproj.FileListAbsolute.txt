@@ -1,0 +1,15 @@
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/bin/Debug/net8.0/Lab6
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/bin/Debug/net8.0/Lab6.deps.json
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/bin/Debug/net8.0/Lab6.runtimeconfig.json
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/bin/Debug/net8.0/Lab6.dll
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/bin/Debug/net8.0/Lab6.pdb
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/Lab6.AssemblyInfoInputs.cache
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/Lab6.AssemblyInfo.cs
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/Lab6.sourcelink.json
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/Lab6.dll
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/refint/Lab6.dll
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/Lab6.pdb
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/Lab6.genruntimeconfig.cache
+/Users/irapavlikha/Desktop/OOP/Lab6/Lab6/obj/Debug/net8.0/ref/Lab6.dll
